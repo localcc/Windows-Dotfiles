@@ -11,7 +11,7 @@
 * Download [Nord Windows 10 Theme](https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272)
 * Copy files from `Nord Windows 10 Theme UPDATE/Themes` to `Windows/Resources/Themes`
 * Click on `Start theme tool` in SecureUxTheme
-* Select Nord Darkest or your prefered dork variant and click apply, do not check any checkboxes.
+* Select Nord Darkest or your prefered nord variant and click apply, do not check any checkboxes.
 
 ### Spotify theme installation
 * [Install](https://github.com/khanhas/spicetify-cli/wiki/Installation) Spicetify, use powershell method.
@@ -20,7 +20,7 @@
     spicetify
     spicetify backup apply enable-devtool
   ```
-  This install spicetify onto your spotify installation
+  This will install spicetify onto your spotify installation
 * Download this [repo](https://github.com/morpheusthewhite/spicetify-themes) and copy `Dribbblish` theme to `%USERPROFILE%/.spicetify/Themes`
 * Launch powershell in copied `Dribbblish` folder and write: 
   ```
@@ -30,7 +30,7 @@
     spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
     spicetify apply
   ```
-  These commands configure spicetify to use dribbblish.js file as extensions config, selects dribbblish as theme with Nord-Dark color scheme and configures some spicetify settings, then applies.
+  These commands will configure spicetify to use dribbblish.js file as extensions config, selects dribbblish as theme with Nord-Dark color scheme and configures some spicetify settings, then applies.
 
 ### Discord theme installation
 * [Install](https://powercord.dev/installation) Powercord.
