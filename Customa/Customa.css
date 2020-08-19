@@ -1,0 +1,53 @@
+@import url("https://customa.gitlab.io/Customa-Discord/Base/base.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/selection.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/tooltips.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/color.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/buttons.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/betterFileTypes.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/squareAvatars.m.css");
+
+/* Where placeholder is set, that means I haven't found where the value is used */
+
+:root {
+    --ColAccent: #88C0D0;
+    --ColAccentAlpha: rgb(129, 161, 193, 0.1);
+    --ColAppBG: #2E3440;
+    --ColBackground1: var(--ColAppBG);
+    --ColBackground2: var(--ColAppBG);
+    --ColChannelList: var(--ColAppBG);
+    --ColUserList: var(--ColAppBG);
+    --ColPopout: #3B4252;
+    --ColUserPopout: var(--ColPopout);
+    --ColModal: #434C5E;
+    --ColUserModal: var(--ColModal);
+    --ColSpoilerCovered: #81A1C1;
+    --ColSpoilerUncovered: transparent;
+    --ColFont: #E5E9F0;
+    --ColTransparent1: #434C5E;
+    --ColTransparent2: var(--ColTransparent1);
+    --ColLink: #8FBCBB;
+    --ColWindowBar: #ff00ff; /* Placeholder */
+
+    --ColBTNBlack: 255, 0, 0; /* Placeholder */
+    --ColBTNBrand: 129, 161, 193;
+    --ColBTNGreen: 129, 161, 193;
+    --ColBTNGrey: 255, 0, 0;    /* Placeholder */
+    --ColBTNLink: 255, 0, 0;    /* Placeholder */
+    --ColBTNPrimary: 129, 161, 193; 
+    --ColBTNRed: 129, 161, 193;
+    --ColBTNWhite: 255, 0, 0;   /* Placeholder */
+    --ColBTNYellow: 255, 0, 255; /* Placeholder */
+    --ColBTNContrastFix: #FFFFFF;
+    --ColBTNOwnContrastBright: #000000;
+    --ColBTNOwnContrastDark: #ffffff;
+
+    --ColTextSelection: #D8DEE9;
+
+    --ColBackgroundTooltip: #4C566A;
+    --ColTextTooltip: #E5E9F0;
+
+    --ColChat: #E5E9F0;
+    --ColFont: var(--ColChat);
+    --ColFontBright: #ECEFF4;
+    --ColFontPlaceholder: var(--ColChat);
+}

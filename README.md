@@ -32,13 +32,28 @@
   ```
   These commands configure spicetify to use dribbblish.js file as extensions config, selects dribbblish as theme with Nord-Dark color scheme and configures some spicetify settings, then applies.
 
+### Discord theme installation
+* [Install](https://powercord.dev/installation) Powercord.
+* Open your cloned powercord folder navigate to src/Powercord/Themes
+* Put Customa folder from this repo in there
+* Restart powercord
+
+Note: if you already have an existing theme in powercord customa won't activate, open discord console and write 
+```
+powercord.styleManager.disable("Theme name");
+powercord.styleManager.enable("Customa");
+```
+
 ## Screenshots
 ![Task manager, explorer, spotify](https://i.imgur.com/NIOGdvm.png)
 ![Explorer, Visual Studio Code, Windows Terminal](https://i.imgur.com/GCE9Sbk.png)
 ![Spotify](https://i.imgur.com/2yZVVTf.png)
+![Discord](https://i.imgur.com/zcLNCTl.png)
 
 ## Credits
 
 ### niivu - for creating Nord Windows 10 Theme
 ### namazso - for creating SecureUxTheme
 ### khanhas and all spicetify contributors - for creating spicetify and dribbblish theme
+### https://powercord.dev/contributors - for creating and contributing to powercord
+### Customa-Discord theme contributors - for creating customa theme
