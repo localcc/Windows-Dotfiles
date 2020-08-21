@@ -31,11 +31,11 @@
     --ColBTNBlack: 255, 0, 0; /* Placeholder */
     --ColBTNBrand: 129, 161, 193;
     --ColBTNGreen: 129, 161, 193;
-    --ColBTNGrey: 255, 0, 0;    /* Placeholder */
+    --ColBTNGrey: 129, 161, 193;
     --ColBTNLink: 255, 0, 0;    /* Placeholder */
     --ColBTNPrimary: 129, 161, 193; 
     --ColBTNRed: 129, 161, 193;
-    --ColBTNWhite: 255, 0, 0;   /* Placeholder */
+    --ColBTNWhite: 136, 192, 208;
     --ColBTNYellow: 255, 0, 255; /* Placeholder */
     --ColBTNContrastFix: #FFFFFF;
     --ColBTNOwnContrastBright: #000000;
